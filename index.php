@@ -10,6 +10,16 @@
 
    <h1>Header</h1>
 
+   <?php
+
+   $baseT = 200;
+   $alturaT = 546;
+   $areaT = ($baseT * $alturaT) / 2;
+
+   echo "El area del triangulo es " . $areaT;
+
+   ?>
+
    <img src="imagenes/increibles.png" width="100px"/>
 
    <ul>
