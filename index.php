@@ -73,6 +73,6 @@
       <li><a href="#">Bajel pirata que llaman ...</a></li>
   </ul>
 
-   <p>©Copyright 2050 by nobody. All rights reversed.</p>
+   <p>©Copyright 2050 by nobody. All rights reversed..</p>
   </body>
 </html>
